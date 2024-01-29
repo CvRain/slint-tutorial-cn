@@ -1,4 +1,4 @@
-# Slint 官方文档 中文
+# Slint 参考文档 中文（非官方翻译）
 > 原文：<https://slint.dev/releases/1.3.2/docs/slint/>
 
 本系列文档是Slint文档的官方翻译，本人是Slint的爱好者，苦于在国内找不到中文文档，因此决定翻译官方文档，以供国内Slint爱好者学习。
